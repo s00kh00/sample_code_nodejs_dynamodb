@@ -1,0 +1,50 @@
+[
+{
+  "Artist": "Calvin Harris",
+  "SongTitle": "Slide",
+  "AlbumTitle": "Michael Village",
+  "Genre": "Classical",
+  "Price": "13.99",
+  "CriticRating": "7.96"
+ },
+ {
+  "Artist": "21 Savage",
+  "SongTitle": "Darth Vader",
+  "AlbumTitle": "Tyler Greens",
+  "Genre": "Jazz",
+  "Price": "3.89",
+  "CriticRating": "7.95"
+ },
+ {
+  "Artist": "Selena Gomez",
+  "SongTitle": "Fetish (feat. Gucci Mane)",
+  "AlbumTitle": "Christina Pass",
+  "Genre": "Reggae",
+  "Price": "7.99",
+  "CriticRating": "7.94"
+ },
+ {
+  "Artist": "Brett Young",
+  "SongTitle": "In Case You Didn't Know",
+  "AlbumTitle": "Gene Coves",
+  "Genre": "Rock",
+  "Price": "14.89",
+  "CriticRating": "7.93"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "Stay With Me",
+  "AlbumTitle": "Garcia Skyway",
+  "Genre": "Pop",
+  "Price": "0.89",
+  "CriticRating": "7.92"
+ },
+ {
+  "Artist": "Kygo",
+  "SongTitle": "It Ain't Me (with Selena Gomez)",
+  "AlbumTitle": "Jennifer Motorway",
+  "Genre": "RNB",
+  "Price": "18.99",
+  "CriticRating": "7.91"
+ }
+]
